@@ -1,0 +1,1 @@
+This project performs data cleaning and exploratory data analysis on the Titanic dataset. The goal is to analyze passenger information and identify patterns influencing survival. Various visualizations and statistical summaries are used to explore relationships between features. The project demonstrates fundamental data analysis and visualization skills using Python.
