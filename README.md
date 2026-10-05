@@ -1,9 +1,3 @@
-Here is a **brief but detailed README** for your **PRODIGY_DS_02 (Titanic EDA Project)** that looks professional on GitHub.
-
-You can **copy everything directly**:
-
----
-
 # 🚢 PRODIGY_DS_02 — Data Cleaning and Exploratory Data Analysis (Titanic Dataset)
 
 ## 1. Overview
